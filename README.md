@@ -2,13 +2,16 @@
 
 Light theme for Visual Studio Code. It uses Intellij-light theme colors and looks almost the same.
 
-![Preview](./preview/code1.png)
+![Preview](https://raw.githubusercontent.com/avin/real-intellij-light/master/preview/code1.png)
 
 
 ## Settings recomendations:
 
 ```json5
 {
+    // Theme
+    "workbench.colorTheme": "Real IntelliJ Light",
+  
     // Show scrollbars
     "editor.scrollbar.verticalScrollbarSize": 10,
     "editor.scrollbar.horizontalScrollbarSize": 10,
