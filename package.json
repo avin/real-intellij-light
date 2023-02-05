@@ -1,9 +1,9 @@
 {
   "name": "real-intellij-light",
   "displayName": "Real Intellij Light",
-  "description": "Theme looks like Webstorm IntelliJ Light",
+  "description": "Theme looks like IDEA IntelliJ Light",
   "author": "Avin Lambrero <avin.github@gmail.com>",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "publisher": "c75",
   "repository": {
