@@ -1,4 +1,4 @@
-# Real-Intellij-Light
+# Real Intellij Light
 
 Light theme for Visual Studio Code. It uses Intellij-light theme colors and looks almost the same.
 

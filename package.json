@@ -1,8 +1,10 @@
 {
   "name": "real-intellij-light",
-  "displayName": "real-intellij-light",
+  "displayName": "Real Intellij Light",
   "description": "Theme looks like Webstorm IntelliJ Light",
+  "author": "Avin Lambrero <avin.github@gmail.com>",
   "version": "0.0.1",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/avin/real-intellij-light.git"
@@ -13,6 +15,16 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "light",
+    "intellij",
+    "vscode",
+    "webstorm",
+    "phpstorm",
+    "idea"
+  ],
+  "homepage": "https://github.com/avin/real-intellij-light",
   "contributes": {
     "themes": [
       {
