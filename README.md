@@ -7,7 +7,7 @@ Light theme for Visual Studio Code. It uses Intellij-light theme colors and look
 
 ## Settings recomendations:
 
-```json
+```json5
 {
     // Show scrollbars
     "editor.scrollbar.verticalScrollbarSize": 10,

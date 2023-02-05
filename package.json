@@ -3,6 +3,10 @@
   "displayName": "real-intellij-light",
   "description": "Theme looks like Webstorm IntelliJ Light",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avin/real-intellij-light.git"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
