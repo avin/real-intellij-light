@@ -2,7 +2,7 @@
 
 Light theme for Visual Studio Code. It uses Intellij-light theme colors and looks almost the same.
 
-![Preview](https://raw.githubusercontent.com/avin/real-intellij-light/master/preview/code1.png)
+![Preview](https://raw.githubusercontent.com/avin/real-intellij-light/master/assets/preview.png)
 
 
 ## Settings recomendations:

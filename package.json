@@ -3,7 +3,7 @@
   "displayName": "Real Intellij Light",
   "description": "Theme looks like Webstorm IntelliJ Light",
   "author": "Avin Lambrero <avin.github@gmail.com>",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "publisher": "c75",
   "repository": {
@@ -25,6 +25,7 @@
     "phpstorm",
     "idea"
   ],
+  "icon": "assets/icon.png",
   "homepage": "https://github.com/avin/real-intellij-light",
   "contributes": {
     "themes": [
